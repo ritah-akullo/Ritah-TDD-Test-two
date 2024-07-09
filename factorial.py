@@ -1,3 +1,6 @@
+#Vanessa Nassanga
+#Winnifred Akullu
+#Winnie Atim
 def factorial(n):
     if n < 0:
         raise ValueError("Factorial is not defined for negative numbers")
